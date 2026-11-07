@@ -1,0 +1,101 @@
+OrderID,OrderDate,CustomerID,CustomerName,Product,Category,Quantity,UnitPrice,TotalAmount,Region,PaymentMethod
+ORD0044,2025-01-02,C001,Aarav Sharma,Keyboard,Electronics,4,1500,6000,West,Debit Card
+ORD0042,2025-01-08,C002,Priya Reddy,Laptop,Electronics,5,55000,275000,North,Credit Card
+ORD0084,2025-01-13,C004,Sneha Iyer,Monitor,Electronics,2,12000,24000,North,Credit Card
+ORD0068,2025-01-20,C003,Rahul Verma,Mouse,Electronics,4,800,3200,West,Credit Card
+ORD0059,2025-01-27,C009,Kiran Das,Pen Pack,Stationery,3,120,360,North,Net Banking
+ORD0046,2025-01-30,C004,Sneha Iyer,Office Chair,Furniture,2,8500,17000,North,Debit Card
+ORD0048,2025-02-05,C009,Kiran Das,Mouse,Electronics,2,800,1600,North,Credit Card
+ORD0054,2025-02-05,C005,Vikram Patel,Keyboard,Electronics,3,1500,4500,South,Debit Card
+ORD0035,2025-02-06,C002,Priya Reddy,Laptop,Electronics,3,55000,165000,South,Debit Card
+ORD0052,2025-02-07,C005,Vikram Patel,Pen Pack,Stationery,3,120,360,North,Net Banking
+ORD0053,2025-02-07,C010,Neha Singh,Backpack,Accessories,1,1800,1800,South,Cash
+ORD0041,2025-02-08,C005,Vikram Patel,Pen Pack,Stationery,2,120,240,West,Cash
+ORD0010,2025-02-10,C001,Aarav Sharma,Monitor,Electronics,3,12000,36000,South,UPI
+ORD0083,2025-02-17,C009,Kiran Das,Backpack,Accessories,3,1800,5400,South,Debit Card
+ORD0037,2025-02-18,C008,Meera Nair,Notebook,Stationery,2,80,160,North,Net Banking
+ORD0039,2025-02-25,C001,Aarav Sharma,Notebook,Stationery,3,80,240,South,Credit Card
+ORD0027,2025-02-27,C006,Ananya Rao,Pen Pack,Stationery,1,120,120,East,Debit Card
+ORD0029,2025-03-06,C008,Meera Nair,Mouse,Electronics,5,800,4000,South,Net Banking
+ORD0078,2025-03-07,C007,Arjun Kumar,Office Chair,Furniture,5,8500,42500,South,Net Banking
+ORD0036,2025-03-09,C008,Meera Nair,Monitor,Electronics,5,12000,60000,West,Credit Card
+ORD0017,2025-03-13,C008,Meera Nair,Keyboard,Electronics,3,1500,4500,South,Cash
+ORD0040,2025-03-13,C004,Sneha Iyer,Water Bottle,Accessories,4,450,1800,West,Credit Card
+ORD0082,2025-03-28,C004,Sneha Iyer,Water Bottle,Accessories,4,450,1800,North,Debit Card
+ORD0066,2025-04-01,C003,Rahul Verma,Monitor,Electronics,2,12000,24000,West,UPI
+ORD0016,2025-04-19,C004,Sneha Iyer,Backpack,Accessories,3,1800,5400,West,Net Banking
+ORD0004,2025-04-23,C004,Sneha Iyer,Water Bottle,Accessories,4,450,1800,West,Cash
+ORD0014,2025-04-23,C007,Arjun Kumar,Office Chair,Furniture,5,8500,42500,East,UPI
+ORD0087,2025-04-23,C001,Aarav Sharma,Mouse,Electronics,4,800,3200,South,Cash
+ORD0003,2025-04-30,C001,Aarav Sharma,Mouse,Electronics,2,800,1600,North,Cash
+ORD0001,2025-05-06,C002,Priya Reddy,Laptop,Electronics,3,55000,165000,South,Credit Card
+ORD0013,2025-05-06,C010,Neha Singh,Keyboard,Electronics,5,1500,7500,South,Net Banking
+ORD0032,2025-05-07,C009,Kiran Das,Pen Pack,Stationery,1,120,120,South,UPI
+ORD0049,2025-05-07,C007,Arjun Kumar,Mouse,Electronics,5,800,4000,North,Cash
+ORD0091,2025-05-07,C008,Meera Nair,Pen Pack,Stationery,3,120,360,East,Cash
+ORD0088,2025-05-08,C008,Meera Nair,Laptop,Electronics,5,55000,275000,North,Net Banking
+ORD0051,2025-05-16,C004,Sneha Iyer,Desk,Furniture,2,14000,28000,West,Credit Card
+ORD0080,2025-05-27,C009,Kiran Das,Laptop,Electronics,3,55000,165000,South,Net Banking
+ORD0023,2025-05-31,C005,Vikram Patel,Desk,Furniture,1,14000,14000,West,Credit Card
+ORD0056,2025-06-03,C009,Kiran Das,Laptop,Electronics,5,55000,275000,North,Credit Card
+ORD0069,2025-06-06,C004,Sneha Iyer,Pen Pack,Stationery,3,120,360,South,Credit Card
+ORD0093,2025-06-13,C004,Sneha Iyer,Office Chair,Furniture,3,8500,25500,North,Credit Card
+ORD0070,2025-06-18,C001,Aarav Sharma,Monitor,Electronics,4,12000,48000,East,UPI
+ORD0095,2025-06-19,C002,Priya Reddy,Notebook,Stationery,4,80,320,West,Net Banking
+ORD0060,2025-06-20,C005,Vikram Patel,Laptop,Electronics,1,55000,55000,South,Debit Card
+ORD0006,2025-06-22,C005,Vikram Patel,Keyboard,Electronics,2,1500,3000,North,UPI
+ORD0058,2025-06-25,C005,Vikram Patel,Backpack,Accessories,2,1800,3600,South,Debit Card
+ORD0007,2025-06-26,C007,Arjun Kumar,Mouse,Electronics,3,800,2400,East,UPI
+ORD0073,2025-06-26,C002,Priya Reddy,Backpack,Accessories,4,1800,7200,East,Net Banking
+ORD0097,2025-06-30,C007,Arjun Kumar,Pen Pack,Stationery,1,120,120,East,Net Banking
+ORD0065,2025-07-01,C004,Sneha Iyer,Monitor,Electronics,1,12000,12000,West,Cash
+ORD0064,2025-07-06,C003,Rahul Verma,Laptop,Electronics,3,55000,165000,North,Debit Card
+ORD0008,2025-07-13,C008,Meera Nair,Water Bottle,Accessories,1,450,450,North,Cash
+ORD0074,2025-07-17,C010,Neha Singh,Water Bottle,Accessories,1,450,450,South,Debit Card
+ORD0096,2025-07-19,C001,Aarav Sharma,Monitor,Electronics,4,12000,48000,North,Cash
+ORD0031,2025-07-24,C009,Kiran Das,Monitor,Electronics,3,12000,36000,East,Net Banking
+ORD0071,2025-07-24,C005,Vikram Patel,Desk,Furniture,5,14000,70000,East,UPI
+ORD0086,2025-07-24,C004,Sneha Iyer,Notebook,Stationery,4,80,320,South,Credit Card
+ORD0015,2025-07-25,C004,Sneha Iyer,Laptop,Electronics,3,55000,165000,East,UPI
+ORD0018,2025-08-08,C009,Kiran Das,Office Chair,Furniture,5,8500,42500,West,Debit Card
+ORD0092,2025-08-14,C008,Meera Nair,Monitor,Electronics,3,12000,36000,North,Debit Card
+ORD0085,2025-08-22,C008,Meera Nair,Backpack,Accessories,1,1800,1800,West,Cash
+ORD0081,2025-08-27,C010,Neha Singh,Backpack,Accessories,3,1800,5400,West,Net Banking
+ORD0038,2025-08-28,C006,Ananya Rao,Notebook,Stationery,4,80,320,North,UPI
+ORD0100,2025-08-28,C006,Ananya Rao,Notebook,Stationery,2,80,160,South,Cash
+ORD0047,2025-09-02,C001,Aarav Sharma,Laptop,Electronics,5,55000,275000,South,UPI
+ORD0043,2025-09-04,C003,Rahul Verma,Notebook,Stationery,4,80,320,South,Net Banking
+ORD0099,2025-09-06,C004,Sneha Iyer,Office Chair,Furniture,4,8500,34000,North,Net Banking
+ORD0019,2025-09-10,C004,Sneha Iyer,Keyboard,Electronics,5,1500,7500,North,UPI
+ORD0024,2025-09-14,C008,Meera Nair,Laptop,Electronics,3,55000,165000,South,Cash
+ORD0075,2025-09-24,C001,Aarav Sharma,Notebook,Stationery,1,80,80,South,Debit Card
+ORD0030,2025-09-28,C009,Kiran Das,Keyboard,Electronics,3,1500,4500,West,Credit Card
+ORD0026,2025-09-29,C006,Ananya Rao,Keyboard,Electronics,5,1500,7500,North,Cash
+ORD0055,2025-10-06,C005,Vikram Patel,Keyboard,Electronics,4,1500,6000,East,Cash
+ORD0090,2025-10-08,C010,Neha Singh,Water Bottle,Accessories,4,450,1800,West,Credit Card
+ORD0063,2025-10-10,C001,Aarav Sharma,Desk,Furniture,5,14000,70000,South,Net Banking
+ORD0033,2025-10-11,C006,Ananya Rao,Laptop,Electronics,5,55000,275000,South,Cash
+ORD0057,2025-10-11,C005,Vikram Patel,Mouse,Electronics,1,800,800,South,Debit Card
+ORD0089,2025-10-14,C003,Rahul Verma,Pen Pack,Stationery,5,120,600,East,Net Banking
+ORD0050,2025-10-17,C002,Priya Reddy,Notebook,Stationery,5,80,400,East,Debit Card
+ORD0028,2025-10-18,C004,Sneha Iyer,Laptop,Electronics,2,55000,110000,North,UPI
+ORD0079,2025-10-19,C007,Arjun Kumar,Keyboard,Electronics,5,1500,7500,East,Net Banking
+ORD0009,2025-10-23,C005,Vikram Patel,Backpack,Accessories,3,1800,5400,South,UPI
+ORD0072,2025-10-25,C002,Priya Reddy,Office Chair,Furniture,2,8500,17000,East,UPI
+ORD0002,2025-10-30,C002,Priya Reddy,Water Bottle,Accessories,1,450,450,West,UPI
+ORD0021,2025-11-02,C002,Priya Reddy,Notebook,Stationery,4,80,320,West,Cash
+ORD0098,2025-11-05,C007,Arjun Kumar,Water Bottle,Accessories,5,450,2250,South,Net Banking
+ORD0025,2025-11-08,C002,Priya Reddy,Office Chair,Furniture,5,8500,42500,South,Credit Card
+ORD0076,2025-11-16,C007,Arjun Kumar,Mouse,Electronics,3,800,2400,East,UPI
+ORD0011,2025-11-22,C007,Arjun Kumar,Office Chair,Furniture,4,8500,34000,East,Credit Card
+ORD0077,2025-12-08,C005,Vikram Patel,Water Bottle,Accessories,3,450,1350,West,Debit Card
+ORD0067,2025-12-09,C003,Rahul Verma,Desk,Furniture,4,14000,56000,South,Debit Card
+ORD0012,2025-12-10,C006,Ananya Rao,Desk,Furniture,2,14000,28000,East,UPI
+ORD0020,2025-12-15,C002,Priya Reddy,Keyboard,Electronics,2,1500,3000,West,Cash
+ORD0022,2025-12-15,C005,Vikram Patel,Water Bottle,Accessories,1,450,450,North,Cash
+ORD0062,2025-12-20,C001,Aarav Sharma,Mouse,Electronics,1,800,800,South,Cash
+ORD0094,2025-12-22,C003,Rahul Verma,Monitor,Electronics,4,12000,48000,South,Credit Card
+ORD0045,2025-12-23,C008,Meera Nair,Office Chair,Furniture,4,8500,34000,West,Credit Card
+ORD0005,2025-12-24,C005,Vikram Patel,Laptop,Electronics,2,55000,110000,West,Debit Card
+ORD0061,2025-12-28,C003,Rahul Verma,Pen Pack,Stationery,5,120,600,West,Cash
+ORD0034,2025-12-29,C004,Sneha Iyer,Laptop,Electronics,1,55000,55000,North,Credit Card
